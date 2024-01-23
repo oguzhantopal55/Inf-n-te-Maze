@@ -1,0 +1,24 @@
+~ start
+
+if sword_status == "taken"
+	Asgore: Now that you got the Grandmaster Sword, nothing can stop you, adventurer.
+	=> END
+	
+Asgore: Greetings, brave adventurer! Welcome to the Infinite Maze.
+Asgore: I am known as Asgore, the guardian of this ancient dungeon.
+- Cool, now let me pass!
+	Asgore: >:(
+- Hello, Asgore! Nice to meet you.
+	Asgore: Likewise, adventurer. Before you venture deeper, there's something you should know. This maze is home to various creatures, some of them quite formidable.
+	- Nothing I can't handle.
+		Asgore: Go ahead then, let's see if you can survive even 5 minutes without any weapon. => END
+	- Oh, really? What kind of creatures are we talking about?
+	Asgore: Ferocious beasts, cunning traps, and dark entities inhabit these twisting passages. The shadows conceal dangers, and the echoes carry the whispers of those who failed to conquer this labyrinth  
+	Player: Sounds challenging. Any advice for me?
+	Asgore: Indeed. The legends say there is a sword that seals the darkness. If you get it, only then you will have a chance against these monsters.
+	Player: Cool, where shoud I start searching?
+	Asgore: You can ask that guy near the market, he knows better.
+	Player: Thanks, See ya!
+	set asgore_status = "talked"
+	
+=> END
