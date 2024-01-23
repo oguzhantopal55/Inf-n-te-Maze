@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cos0tfvr1h818"
+path="res://.godot/imported/Just a normal Sans Sound effect.wav-9d0b6357fe7b9291efe37f760f8a8867.sample"
+
+[deps]
+
+source_file="res://dialogue_balloon/Just a normal Sans Sound effect.wav"
+dest_files=["res://.godot/imported/Just a normal Sans Sound effect.wav-9d0b6357fe7b9291efe37f760f8a8867.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

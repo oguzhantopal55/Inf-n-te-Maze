@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://v8gn5q7glchn"
+path="res://.godot/imported/Just a normal Sans Sound effect-[AudioTrimmer.com].wav-a629a3f2d0261bdc504302e34c514f70.sample"
+
+[deps]
+
+source_file="res://dialogue_balloon/Just a normal Sans Sound effect-[AudioTrimmer.com].wav"
+dest_files=["res://.godot/imported/Just a normal Sans Sound effect-[AudioTrimmer.com].wav-a629a3f2d0261bdc504302e34c514f70.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
